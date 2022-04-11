@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-width: 100vh;
+}
+
+.google-image {
+    margin-top: 300px;
+    text-align: center;
+}
+.form-search {
+    margin-top: 20px;
+    text-align: center;
+}
+.buttons {
+    text-align: center;
+}
+#form-search {
+    width: 500px;
+}
